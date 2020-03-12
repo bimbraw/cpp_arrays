@@ -1,4 +1,4 @@
-# cpp_arrays
+# cpp_arrays (completed)
 Array exercises for C++
 
 Exercise 1. Write an application that asks the user to input four numbers. The inputted numbers should be stored in a 4 element array of doubles. The numbers should be summarized and the result printed in the console as well as the address of first and last element of the array.
